@@ -26,9 +26,7 @@ export default function AboutSection() {
           <div className="space-y-6">
             <h3 className="text-3xl font-bold text-gray-800">Designing Is My Passion</h3>
             <p className="text-lg text-gray-600 leading-relaxed">
-              Full Stack Web Developer with expertise in the MERN stack (MongoDB, Express.js, React.js, Node.js).
-              Skilled in designing and developing efficient server-side APIs using Node.js and Express.js. Proficient in
-              frontend technologies such as HTML, CSS, and React.js.
+              <strong>Full Stack Developer</strong> with hands-on experience in the <strong>MERN stack</strong>. At <strong>Farmreach Technologies</strong>, I built <em>production-ready</em>, <em>responsive interfaces</em> using <strong>Next.js</strong>, <strong>React.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. Integrated REST APIs and implemented over <strong>60+ </strong> GraphQL queries, mutations, and subscriptions using <strong>Apollo Client</strong> and <strong>Hasura</strong> as the GraphQL engine.
             </p>
             <div className="grid grid-cols-2 gap-4 mt-8">
               <div className="text-center p-4 bg-blue-50 rounded-lg">

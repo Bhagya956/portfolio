@@ -79,9 +79,9 @@ export default function HeroSection() {
           {/* Name with Gradient */}
           <div className="animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
             <h4 className="text-4xl md:text-6xl lg:text-7xl font-bold mb-6 leading-tight">
-              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">Kumod Kumar</span>
+              <span className="bg-gradient-to-r from-blue-600 via-purple-600 to-indigo-600 bg-clip-text text-transparent">BhagyaLaxmi</span>
               <span> </span>
-              <span className="bg-gradient-to-r from-purple-600 via-pink-600 to-red-600 bg-clip-text text-transparent">Sharma</span>
+              <span className="bg-gradient-to-r from-purple-600 via-pink-600 to-red-600 bg-clip-text text-transparent">Kummaripally</span>
             </h4>
           </div>
 

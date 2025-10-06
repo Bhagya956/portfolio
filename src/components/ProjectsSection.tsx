@@ -8,19 +8,19 @@ export default function ProjectsSection() {
   const projects = [
     {
       id: 1,
-      title: "Green Paradise",
+      title: "Expence Tracker",
       description:
-        "Green Paradise is a fully functional e-commerce website designed for plant enthusiasts. It offers a wide variety of plants and gardening supplies, making it easy for users to browse, select, and purchase their favourite plants online.",
-      image: "/images/greenparadise.png",
+        "Expense Tracker App is an interactive and user-friendly tool that helps users manage their income and track expenses in real time. It offers dynamic calculations, spending categorization, and clear graphical insights to make budgeting simple and effective. The app is fully responsive and deployed via GitHub Pages.",
+      image: "/images/expensetracker.png",
       techStack: ["HTML", "CSS", "JavaScript"],
-      githubUrl: "https://github.com/1ashutoshverma/Green-Paradise",
-      liveUrl: "https://green-paradise-team.netlify.app/index.html",
+      githubUrl: "https://github.com/Bhagya956/ExpenseTrackerApp",
+      liveUrl: "https://bhagya956.github.io/ExpenseTrackerApp/",
     },
     {
       id: 2,
-      title: "Alcazar",
+      title: "Advanced Chat App",
       description:
-        "Alcazar is a modern and user-friendly travel agency website that streamlines trip planning and booking. The platform features an intuitive interface and engaging design, providing users with a seamless travel experience from browsing destinations to finalizing reservations",
+        "Currently Building",
       image: "/images/alcazar.png",
       techStack: ["HTML", "CSS", "JavaScript"],
       githubUrl: "https://github.com/Shubham10320/Travel-website",
@@ -28,9 +28,9 @@ export default function ProjectsSection() {
     },
     {
       id: 3,
-      title: "Oestin",
+      title: "Gemini App",
       description:
-        "Welcome to Oestin, a modern and stylish Hotel & Resort website built with HTML, CSS, and JavaScript. This project seamlessly integrates various technologies to provide a smooth and secure user experience.",
+        "Need to check and correct it",
       image: "/images/oestin.png",
       techStack: ["HTML", "CSS", "JavaScript"],
       githubUrl: "https://github.com/kumod1164/Oestin_CW",

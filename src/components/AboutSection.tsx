@@ -14,8 +14,8 @@ export default function AboutSection() {
           <div className="flex justify-center">
             <div className="relative w-80 h-80 rounded-full overflow-hidden shadow-2xl">
               <Image
-                src="/images/pp.jpg"
-                alt="Kumod Kumar Sharma"
+                src="/images/BhagyaLaxmi_Photo.jpeg"
+                alt="Bhagya Laxmi"
                 fill
                 className="object-cover"
                 priority
@@ -24,7 +24,7 @@ export default function AboutSection() {
           </div>
 
           <div className="space-y-6">
-            <h3 className="text-3xl font-bold text-gray-800">Designing Is My Passion</h3>
+            <h3 className="text-3xl font-bold text-gray-800">Learning Is My Passion</h3>
             <p className="text-lg text-gray-600 leading-relaxed">
               <strong>Full Stack Developer</strong> with hands-on experience in the <strong>MERN stack</strong>. At <strong>Farmreach Technologies</strong>, I built <em>production-ready</em>, <em>responsive interfaces</em> using <strong>Next.js</strong>, <strong>React.js</strong>, <strong>TypeScript</strong>, and <strong>Tailwind CSS</strong>. Integrated REST APIs and implemented over <strong>60+ </strong> GraphQL queries, mutations, and subscriptions using <strong>Apollo Client</strong> and <strong>Hasura</strong> as the GraphQL engine.
             </p>

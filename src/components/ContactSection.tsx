@@ -50,16 +50,16 @@ export default function ContactSection() {
   const handleContactClick = (type: string) => {
     switch (type) {
       case "github":
-        window.open("https://github.com/kumod1164", "_blank")
+        window.open("https://github.com/Bhagya956", "_blank")
         break
       case "linkedin":
-        window.open("https://www.linkedin.com/in/kumodks/", "_blank")
+        window.open("https://www.linkedin.com/in/bhagya--laxmi", "_blank")
         break
       case "email":
-        window.location.href = "mailto:kumodsharma1164@gmail.com"
+        window.location.href = "mailto:kbhagya956@gmail.com"
         break
       case "phone":
-        window.location.href = "tel:+91 8825100428"
+        window.location.href = "tel:+91 9182887742"
         break
     }
   }
@@ -68,7 +68,7 @@ export default function ContactSection() {
     {
       icon: Mail,
       title: "Email",
-      value: "kumodsharma1164@gmail.com",
+      value: "kbhagya956@gmail.com",
       action: () => handleContactClick("email"),
       color: "bg-blue-500",
       hoverColor: "hover:bg-blue-600",
@@ -76,7 +76,7 @@ export default function ContactSection() {
     {
       icon: Phone,
       title: "Phone",
-      value: "+91 8825100428",
+      value: "+91 9182887742",
       action: () => handleContactClick("phone"),
       color: "bg-green-500",
       hoverColor: "hover:bg-green-600",
@@ -84,7 +84,7 @@ export default function ContactSection() {
     {
       icon: MapPin,
       title: "Location",
-      value: "India",
+      value: "Hyderabad, India",
       action: () => {},
       color: "bg-purple-500",
       hoverColor: "hover:bg-purple-600",
